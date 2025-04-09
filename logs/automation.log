@@ -1,0 +1,33 @@
+21:31:44.299 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:31:44.328 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:31:44.329 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:31:44.374 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:31:44.378 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:31:44.381 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:31:44.425 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:31:44.429 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:31:44.429 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:31:44.469 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:31:44.469 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:31:44.469 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:31:44.502 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+21:31:44.508 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21:31:44.510 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+21:31:44.577 [main] INFO  testCases.TC003_LoginDDT - *****************Starting the TCOO3_LoginDDT**********************
+21:31:48.449 [main] INFO  testCases.TC003_LoginDDT - *****************Starting the TCOO3_LoginDDT**********************
+21:32:20.285 [main] INFO  testCases.TC003_LoginDDT - *****************Starting the TCOO3_LoginDDT**********************
+21:32:52.526 [main] INFO  testCases.TC003_LoginDDT - *****************Starting the TCOO3_LoginDDT**********************
+21:40:05.752 [main] INFO  testCases.TC001_AccountRegistrationTest - ****************The test case is started**************************
+21:40:05.957 [main] INFO  testCases.TC001_AccountRegistrationTest - ****************Clicked on MyAccount Link**************************
+21:40:08.943 [main] INFO  testCases.TC001_AccountRegistrationTest - ****************Clicked on Register Link**************************
+21:40:08.948 [main] INFO  testCases.TC001_AccountRegistrationTest - ****************Providing the customer details**************************
+21:40:11.287 [main] INFO  testCases.TC001_AccountRegistrationTest - ****************validating the Test Case**************************
+21:40:11.383 [main] INFO  testCases.TC001_AccountRegistrationTest - *******************Testcase TC001 is Finished*************************************
+21:40:22.070 [main] INFO  testCases.TC002_LoginTest - *************Starting TC002 Login test case********************
+21:47:32.598 [main] INFO  testCases.TC001_AccountRegistrationTest - ****************The test case is started**************************
+21:47:32.768 [main] INFO  testCases.TC001_AccountRegistrationTest - ****************Clicked on MyAccount Link**************************
+21:47:36.841 [main] INFO  testCases.TC001_AccountRegistrationTest - ****************Clicked on Register Link**************************
+21:47:36.845 [main] INFO  testCases.TC001_AccountRegistrationTest - ****************Providing the customer details**************************
+21:47:39.194 [main] INFO  testCases.TC001_AccountRegistrationTest - ****************validating the Test Case**************************
+21:47:39.290 [main] INFO  testCases.TC001_AccountRegistrationTest - *******************Testcase TC001 is Finished*************************************
+21:47:45.555 [main] INFO  testCases.TC002_LoginTest - *************Starting TC002 Login test case********************
