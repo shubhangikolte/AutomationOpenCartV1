@@ -1,0 +1,36 @@
+22:45:30.669 [main] INFO  testCases.TC001_AccountRegistrationTest - *******************Testcase TC001 is Finished*************************************
+22:45:35.616 [main] INFO  testCases.TC002_LoginTest - *************Starting TC002 Login test case********************
+14:53:52.733 [main] INFO  testCases.TC001_AccountRegistrationTest - ****************The test case is started**************************
+14:53:53.320 [main] INFO  testCases.TC001_AccountRegistrationTest - ****************Clicked on MyAccount Link**************************
+14:53:54.438 [main] INFO  testCases.TC001_AccountRegistrationTest - ****************Clicked on Register Link**************************
+14:53:54.444 [main] INFO  testCases.TC001_AccountRegistrationTest - ****************Providing the customer details**************************
+14:53:56.620 [main] INFO  testCases.TC001_AccountRegistrationTest - ****************validating the Test Case**************************
+14:53:56.722 [main] INFO  testCases.TC001_AccountRegistrationTest - *******************Testcase TC001 is Finished*************************************
+14:54:00.653 [main] INFO  testCases.TC002_LoginTest - *************Starting TC002 Login test case********************
+14:54:25.063 [main] INFO  testCases.TC001_AccountRegistrationTest - ****************The test case is started**************************
+15:05:16.727 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****************The test case is started**************************
+15:05:28.304 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****************The test case is started**************************
+15:05:28.744 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****************Clicked on MyAccount Link**************************
+15:05:30.292 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****************Clicked on Register Link**************************
+15:05:30.302 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****************Providing the customer details**************************
+15:05:32.846 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****************validating the Test Case**************************
+15:05:52.914 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+15:05:52.914 [TestNG-tests-1] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs
+15:05:57.256 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - *************Starting TC002 Login test case********************
+15:06:00.161 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - *************Finished TC002 Login test case***************************
+15:13:02.622 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****************The test case is started**************************
+15:13:02.622 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****************The test case is started**************************
+15:13:03.085 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****************Clicked on MyAccount Link**************************
+15:13:03.311 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****************Clicked on MyAccount Link**************************
+15:18:21.903 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****************The test case is started**************************
+15:18:22.188 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****************Clicked on MyAccount Link**************************
+15:18:23.132 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****************Clicked on Register Link**************************
+15:18:23.138 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****************Providing the customer details**************************
+15:18:25.206 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****************validating the Test Case**************************
+15:18:25.266 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *******************Testcase TC001 is Finished*************************************
+15:18:36.943 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - *************Starting TC002 Login test case********************
+15:18:39.261 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - *************Finished TC002 Login test case***************************
+15:20:45.100 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - ****************The test case is started**************************
+15:21:02.260 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****************The test case is started**************************
+15:21:02.291 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ****************The test case is started**************************
+15:21:02.983 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****************Clicked on MyAccount Link**************************
